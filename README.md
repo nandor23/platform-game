@@ -5,7 +5,8 @@ All the game tileset is included in the [jungle](https://github.com/nandor23/pla
 
 The obstacles' position is read from a file, after all obstacles are passed you can still continue until you want, but on a flat surface. The map is updated dinamically, meaning that only the current obstacles are shown.
 
-<img src="https://github.com/nandor23/platform-game/blob/main/Screenshot_1.png" alt="drawing" width="500"/>
+<img src="https://github.com/nandor23/platform-game/blob/main/gif_1.gif" alt="drawing" width="500"/>
+
 
 
 ## Controls
