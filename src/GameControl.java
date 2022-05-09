@@ -13,8 +13,8 @@ public class GameControl implements Runnable {
 
         do {
             if (!model.isGamePaused()) {
-                model.getPlayer().updatePosition();             //update the character's position and animation
-                model.getPlatform().updateBombAnimation();      //updates the bomb's position
+                model.getPlayer().updatePosition();             //update the characters position and animation
+                model.getPlatform().updateBombAnimation();      //updates the bombs position
                 try {
                     Thread.sleep(16);
                 } catch (InterruptedException e) {
